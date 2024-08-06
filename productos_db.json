@@ -1,0 +1,51 @@
+{
+    "1": {
+        "id_producto": "1",
+        "nombre": "TV",
+        "precio": 100000.0,
+        "cantidad": 4,
+        "garantia": "6"
+    },
+    "2": {
+        "id_producto": "2",
+        "nombre": "Arroz",
+        "precio": 1400.0,
+        "cantidad": 8,
+        "fecha_expiracion": "25/5/26"
+    },
+    "4": {
+        "id_producto": "4",
+        "nombre": "Harina",
+        "precio": 800.0,
+        "cantidad": 20,
+        "fecha_expiracion": "20/3/28"
+    },
+    "5": {
+        "id_producto": "5",
+        "nombre": "Fideos",
+        "precio": 750.0,
+        "cantidad": 30,
+        "fecha_expiracion": "12/3/28"
+    },
+    "6": {
+        "id_producto": "6",
+        "nombre": "Ventilador",
+        "precio": 80000.0,
+        "cantidad": 45,
+        "garantia": "3"
+    },
+    "8": {
+        "id_producto": "8",
+        "nombre": "Polenta",
+        "precio": 800.0,
+        "cantidad": 20,
+        "fecha_expiracion": "22/3/28"
+    },
+    "3": {
+        "id_producto": "3",
+        "nombre": "Afeitadora",
+        "precio": 20000.0,
+        "cantidad": 25,
+        "garantia": "6"
+    }
+}
